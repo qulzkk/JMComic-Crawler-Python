@@ -9,11 +9,13 @@ jm248975
 ''')
 
 # 单独下载章节
-jm_photos = '''
+jm_photos = ('''
+128
+129
+130
 
 
-
-'''
+''')
 
 
 def env(name, default, trim=('[]', '""', "''")):
